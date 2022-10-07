@@ -1,0 +1,19 @@
+{
+  "name": "api_nodejs_example-master",
+  "version": "1.0.0",
+  "description": "Run `npm install`",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.1",
+    "mysql": "^2.18.1"
+  }
+}
